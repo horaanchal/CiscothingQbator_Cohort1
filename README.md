@@ -1,2 +1,2 @@
 # CiscothingQbator_Cohort1
-The respective repository has a full description 
+An autonomous localisation system that finds humans buried under snow to speed up search and rescue operations.
